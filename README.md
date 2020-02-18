@@ -13,7 +13,8 @@ Some links about Functional Programming
   - [Free monad](https://hackage.haskell.org/package/free)
 
 
-* Category theory as a tool for thought   - [Slide](https://ncreep.github.io/category-theory-as-a-tool-for-thought/presentation/presentation.html#1)
+* Category theory as a tool for thought 
+  - [Slide](https://ncreep.github.io/category-theory-as-a-tool-for-thought/presentation/presentation.html#1)
   - [Bartosz Milewski](https://bartoszmilewski.com)
   - [Monads are just monoids in the category of endofunctors](https://blog.merovius.de/2018/01/08/monads-are-just-monoids.html)
   - [Stackoverflow](https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem)
@@ -51,6 +52,10 @@ Some links about Functional Programming
   - [Binders by Day, Labels by Night: Effect Instances via Lexically Scoped Handlers](https://popl20.sigplan.org/details/POPL-2020-Research-Papers/23/Binders-by-Day-Labels-by-Night-Effect-Instances-via-Lexically-Scoped-Handlers)
   - [Handlers in Action](https://homepages.inf.ed.ac.uk/slindley/papers/handlers.pdf)
 
+
+* Enhancing the type system with Refined Types
+  - [Slides](https://speakerdeck.com/julianoalves/enhancing-the-type-system-with-refined-types)
+  - [Parse, don’t validate](https://lexi-lambda.github.io/blog/2019/11/05/parse-don-t-validate/)
 
 * TFP PC Chairs’ report, best paper awards
   - [Trends in functional programming](http://www.cse.chalmers.se/~rjmh/tfp/index.htm)
