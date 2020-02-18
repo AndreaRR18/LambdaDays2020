@@ -8,7 +8,7 @@ Some links about Functional Programming
 
 
 * Design composable functional libraries, not just data visualization
-  -[The Gamma](https://thegamma.net/)
+  - [The Gamma](https://thegamma.net/)
   
   
 * State will do
