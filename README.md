@@ -7,6 +7,10 @@ Some links about Functional Programming
   - [Lift](http://www.lift-project.org)
 
 
+* Design composable functional libraries, not just data visualization
+  -[The Gamma](https://thegamma.net/)
+  
+  
 * State will do
   - [Equational reasoning](https://wiki.haskell.org/Equational_reasoning_examples)
   - [Algebraic effect](https://overreacted.io/algebraic-effects-for-the-rest-of-us/)
