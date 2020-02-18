@@ -16,11 +16,20 @@ Some links about Functional Programming
 * Category theory as a tool for thought   - [Slide](https://ncreep.github.io/category-theory-as-a-tool-for-thought/presentation/presentation.html#1)
   - [Bartosz Milewski](https://bartoszmilewski.com)
   - [Monads are just monoids in the category of endofunctors](https://blog.merovius.de/2018/01/08/monads-are-just-monoids.html)
+  - [Stackoverflow](https://stackoverflow.com/questions/3870088/a-monad-is-just-a-monoid-in-the-category-of-endofunctors-whats-the-problem)
 
 
 * Modeling side effects via Extensible Effects and Property Testing
   - [Extensible Effects](https://hackage.haskell.org/package/extensible-effects)
 
+
+* PaSe: An extensible and inspectable DSL for Micro-Animations
+  - [GitHub](https://github.com/rubenpieters/PaSe-hs)
+
+
+* Racket
+  - [Page](https://racket-lang.org)
+  
 
 * How to specify it! A guide to writing properties of pure functions
   - [John Hughes's page](http://www.cse.chalmers.se/~rjmh/)
@@ -46,6 +55,9 @@ Some links about Functional Programming
 * TFP PC Chairs’ report, best paper awards
   - [Trends in functional programming](http://www.cse.chalmers.se/~rjmh/tfp/index.htm)
 
+
+* Privilege as a technical debt
+  - [Awesome falsehood](https://github.com/kdeldycke/awesome-falsehood)
 
 * Cryptocurrency
   - [IOHK](https://iohk.io/en/)
